@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/739197ef-737a-4fab-8915-30fb7364bbb1/deploy-status)](https://app.netlify.com/sites/shop-warehouse/deploys)
