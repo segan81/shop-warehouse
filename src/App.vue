@@ -18,19 +18,23 @@ export default {
       links: [
         {
           title: "/ Items",
-          to: { name: "items" }
+          to: { name: "items" },
+          searchBox: true
         },
         {
           title: "/ Services",
-          to: { name: "services" }
+          to: { name: "services" },
+          searchBox: false
         },
         {
           title: "/ About",
-          to: { name: "about" }
+          to: { name: "about" },
+          searchBox: false
         },
         {
           title: "/ Contact",
-          to: { name: "contact" }
+          to: { name: "contact" },
+          searchBox: false
         }
       ]
     }
