@@ -19,3 +19,21 @@
   text-align: center;
   text-size-adjust: 100%;
 }
+
+section#blogspot .container {
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  position: relative;
+}
+
+section#blogspot h1{
+  background: #ffffff;
+  font-weight: 400;
+  left: 50%;
+  margin:0;
+  position: absolute;  
+  text-align: center;
+  transform: translate(-50%, -60%);
+  top: 0;
+  width: 50%;
+}
